@@ -303,3 +303,4 @@ if __name__ == "__main__":
     root.geometry("+{}+{}".format(x_cordinate, y_cordinate))
 
     root.mainloop()
+# b938bfd1
