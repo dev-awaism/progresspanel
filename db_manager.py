@@ -519,3 +519,4 @@ if __name__ == "__main__":
     # db_manager.add_card_tag( 1, 6, "Complexity", "Hard" )
     db_manager.stop()
 
+# 0bc1fea9
