@@ -38,3 +38,4 @@ Check out my other themes!
 - [Azure ttk theme](https://github.com/rdbende/Azure-ttk-theme)
 - [Forest ttk theme](https://github.com/rdbende/Forest-ttk-theme)
 # 2339f1fd
+# b7f80f7a
