@@ -39,3 +39,4 @@ Check out my other themes!
 - [Forest ttk theme](https://github.com/rdbende/Forest-ttk-theme)
 # 2339f1fd
 # b7f80f7a
+# 8fe7fa35
