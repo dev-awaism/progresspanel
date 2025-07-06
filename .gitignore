@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+myvenv/
+pyboard/myvenv/
+
+# VSCode settings (optional)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python version file (optional, if you want to ignore it)
+.python-version
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Node modules (in case used anywhere)
+node_modules/
+
+# Ignore user-specific files
+*.swp
+*~
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+generate_fake_history.sh
