@@ -42,4 +42,3 @@ __pycache__/
 *.pyo
 *.pyd
 
-generate_fake_history.sh
